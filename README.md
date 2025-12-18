@@ -93,6 +93,11 @@ This password is too common.
 Bypass password validation and create user anyway? [y/N]: y
 Superuser created successfully.
 
+
+(myvenv) C:\BITBRIJESHSIR\projects\Fudvirapy>git add .
+(myvenv) C:\BITBRIJESHSIR\projects\Fudvirapy>git commit -m "project setup"
+(myvenv) C:\BITBRIJESHSIR\projects\Fudvirapy>git push
+
 Github credential:
 ------------------
 Email : pateltanvi054@gmail.com
